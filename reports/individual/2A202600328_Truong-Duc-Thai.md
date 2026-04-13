@@ -1,6 +1,6 @@
 # Báo Cáo Cá Nhân — Lab Day 08: RAG Pipeline
 
-**Họ và tên:** Thành viên 3  
+**Họ và tên:** 2A202600328 - Trương Đức Thái  
 **Vai trò trong nhóm:** Eval Owner — Baseline  
 **Ngày nộp:** 2026-04-13  
 **Độ dài yêu cầu:** 500–800 từ
@@ -47,4 +47,4 @@ Dựa trên kết quả evaluation, tôi đề xuất bổ sung **confidence thr
 
 ---
 
-*File: `reports/individual/thanh_vien_3.md`*
+*File: `reports/individual/2A202600328_Truong-Duc-Thai.md`*

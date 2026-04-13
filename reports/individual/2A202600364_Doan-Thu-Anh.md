@@ -1,6 +1,6 @@
 # Báo Cáo Cá Nhân — Lab Day 08: RAG Pipeline
 
-**Họ và tên:** Thành viên 2  
+**Họ và tên:** 2A202600364 - Đoàn Thư Ánh  
 **Vai trò trong nhóm:** Retrieval Owner  
 **Ngày nộp:** 2026-04-13  
 **Độ dài yêu cầu:** 500–800 từ
@@ -46,4 +46,4 @@ Dựa trên kết quả evaluation, tôi đề xuất hai cải tiến. Thứ nh
 
 ---
 
-*File: `reports/individual/thanh_vien_2.md`*
+*File: `reports/individual/2A202600364_Doan-Thu-Anh.md`*

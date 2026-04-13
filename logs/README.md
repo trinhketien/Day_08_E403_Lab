@@ -1,4 +1,4 @@
-# Logs Directory
+# 📄 BÁO CÁO NHẬT KÝ (LOGS DIRECTORY README)
 
 Thư mục này chứa log khi chạy grading_questions.
 

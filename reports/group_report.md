@@ -1,12 +1,12 @@
 # Group Report — Lab Day 08: RAG Pipeline
 
-**Tên nhóm:** Nhóm 66  
+**Tên nhóm:** Nhóm 63  
 **Thành viên:**
-- Thành viên 1 (Tech Lead)
-- Thành viên 2 (Retrieval Owner)
-- Thành viên 3 (Eval Owner — Baseline)
-- Thành viên 4 (Eval Owner — Variant & A/B)
-- Thành viên 5 (Documentation Owner)
+- 2A202600500 - Trịnh Kế Tiến (Tech Lead)
+- 2A202600364 - Đoàn Thư Ánh (Retrieval Owner)
+- 2A202600328 - Trương Đức Thái (Eval Owner — Baseline)
+- 2A202600475 - Mai Văn Quân (Eval Owner — Variant & A/B)
+- 2A202600461 - Đặng Phan Bảo Huy (Documentation Owner)
 
 **Ngày nộp:** 2026-04-13
 

@@ -1,6 +1,6 @@
 # Báo Cáo Cá Nhân — Lab Day 08: RAG Pipeline
 
-**Họ và tên:** Thành viên 5  
+**Họ và tên:** 2A202600461 - Đặng Phan Bảo Huy  
 **Vai trò trong nhóm:** Documentation Owner  
 **Ngày nộp:** 2026-04-13  
 **Độ dài yêu cầu:** 500–800 từ
@@ -47,4 +47,4 @@ Dựa trên kết quả evaluation, tôi đề xuất hai cải tiến. Thứ nh
 
 ---
 
-*File: `reports/individual/thanh_vien_5.md`*
+*File: `reports/individual/2A202600461_Dang-Phan-Bao-Huy.md`*

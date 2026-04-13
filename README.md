@@ -1,3 +1,5 @@
+# 📚 TÀI LIỆU HƯỚNG DẪN CHÍNH (MAIN PROJECT README)
+
 **Môn:** AI in Action (AICB-P1)  
 **Chủ đề:** RAG Pipeline: Indexing → Retrieval → Generation → Evaluation  
 **Thời gian:** 4 giờ (4 sprints x 60 phút)
