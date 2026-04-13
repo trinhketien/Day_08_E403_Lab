@@ -33,6 +33,3 @@ Thumbs.db
 
 # Logs có thể to
 *.log
-
-# Personal report (không push lên repo nhóm)
-reports/individual/2A202600500_Trinh-Ke-Tien.md
